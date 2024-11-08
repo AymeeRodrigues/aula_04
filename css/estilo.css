@@ -1,0 +1,42 @@
+.marrom {
+    background-color: rgb(88, 40, 0);
+    text-align: center;
+}  
+
+.rosa, div a {
+    background-color: rgb(182, 36, 67);
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+}  
+
+.header, .footer {
+    background-color:  rgb(32, 19, 1);
+    text-align: center;
+    padding: 50px;
+    
+}
+ .laranja {
+    background-color:  rgb(215, 77, 40);
+    text-align: center;
+    padding: 50px;
+ }
+
+ .main-conteudo, section div {
+    padding: 20px;
+    margin: 5px;
+    border: 10px;
+ }
+
+ #introducao, .margin-top-0 {
+    margin-top: 0;
+ }
+ 
+ .margin-bottom-0 {
+    margin-bottom: 0;
+ }
+
+ footer a {
+    color: #fff;
+ }
+
